@@ -1,0 +1,1 @@
+["To provide an intensive 30-hour platform for interdisciplinary student teams to solve real-world problems.", "To transform concepts into functioning code, hardware, and deployed prototypes.", "To foster collaboration with industry mentors and technical domain experts.", "To encourage innovation in emerging technologies like AI, Robotics, IoT, Drones, and Cybersecurity."]

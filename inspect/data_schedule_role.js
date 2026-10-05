@@ -1,0 +1,63 @@
+[{
+            id: "d5-01",
+            day: 5,
+            time: "10:00 AM",
+            date: "10 OCTOBER 2026",
+            title: "INNOVATION EXPO & SHOWCASE",
+            subtitle: "Prototype Displays & Open Gallery",
+            description: "Public exhibition of selected student prototypes, engineering models, and innovative technological solutions.",
+            venue: "EXHIBITION HALL C",
+            category: "CEREMONY",
+            duration: "10:00 AM – 01:00 PM",
+            icon: "badge"
+        }, {
+            id: "d5-03",
+            day: 5,
+            time: "01:00 PM",
+            date: "10 OCTOBER 2026",
+            title: "FESTIVAL BANQUET",
+            subtitle: "Celebration Feast & Networking",
+            description: "Grand festival lunch with participants, judges, university patrons, and visiting faculties.",
+            venue: "FOOD PLAZA & VIP DECK",
+            category: "BREAK",
+            duration: "01:00 PM – 02:00 PM",
+            icon: "food"
+        }, {
+            id: "d5-04",
+            day: 5,
+            time: "02:00 PM",
+            date: "10 OCTOBER 2026",
+            title: "FINAL JURY DEFENSE & DEMOS",
+            subtitle: "Grand Finale Evaluations",
+            description: "Final presentations, live demonstration rounds, and executive jury defense before the awards ceremony.",
+            venue: "GRAND AUDITORIUM",
+            category: "COMPETITION",
+            duration: "02:00 PM – 04:30 PM",
+            icon: "trophy",
+            featured: !0
+        }, {
+            id: "d5-05",
+            day: 5,
+            time: "04:30 PM",
+            date: "10 OCTOBER 2026",
+            title: "GRAND VALEDICTORY",
+            subtitle: "Mega Prize Pool Distribution",
+            description: "Mega ₹5,00,000+ prize pool distribution across all festival domains, trophy handovers, and festival valedictory address.",
+            venue: "GRAND AUDITORIUM",
+            category: "AWARDS",
+            duration: "04:30 PM – 06:30 PM",
+            icon: "trophy",
+            featured: !0
+        }, {
+            id: "d5-06",
+            day: 5,
+            time: "06:30 PM",
+            date: "10 OCTOBER 2026",
+            title: "CLOSING CONCERT",
+            subtitle: "Celebrity DJ Night & Celebration",
+            description: "Grand festival finale featuring a live celebrity DJ performance, visual laser canopy, confetti cannons, and farewell celebration.",
+            venue: "MAIN ARENA STAGE",
+            category: "CEREMONY",
+            duration: "06:30 PM – 10:00 PM",
+            icon: "mic"
+        }]

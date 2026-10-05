@@ -1,0 +1,297 @@
+[{
+            id: "rifat-parvez",
+            name: "Rifat Parvez",
+            role: "Chairperson",
+            category: "student",
+            image: "/team/rifat.jpeg",
+            description: "Overall Festival Lead & Strategy",
+            socials: {
+                email: "rifatparvez04@gmail.com",
+                instagram: "https://www.instagram.com/thediamondr_?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw=="
+            }
+        }, {
+            id: "shivam-kumar",
+            name: "Shivam Kumar",
+            role: "Vice Chairperson",
+            category: "student",
+            image: "/team/shivam.jpeg",
+            description: "Operations & Team Management",
+            socials: {
+                email: "shivamm9693kr@gmail.com"
+            }
+        }, {
+            id: "aman-bhardwaj",
+            name: "Aman Bhardwaj",
+            role: "Treasurer",
+            category: "student",
+            image: "/team/aman_b.jpeg",
+            description: "Finance & Resource Allocation",
+            socials: {}
+        }, {
+            id: "gaurav-kumar",
+            name: "Gaurav Kumar",
+            role: "Secretary",
+            category: "student",
+            image: "/team/gaurav.jpeg",
+            description: "Administration & Documentation",
+            socials: {}
+        }, {
+            id: "kumar-satyam",
+            name: "Kumar Satyam",
+            role: "Graphic Head",
+            category: "student",
+            image: "/team/kumar-satyam-v3.jpeg",
+            description: "Visual Identity & Creative Lead",
+            socials: {
+                email: "satyamkruk07@gmail.com",
+                instagram: "https://www.instagram.com/official_satya_3843/"
+            }
+        }, {
+            id: "himanshu-kumar",
+            name: "Himanshu Kumar",
+            role: "Media Head",
+            category: "student",
+            image: "/team/himanshu.jpeg",
+            description: "Media Coverage & Broadcasting",
+            socials: {}
+        }, {
+            id: "priyanjali",
+            name: "Priyanjali",
+            role: "Vice Media Head",
+            category: "student",
+            image: "/team/priyanjali.jpeg",
+            description: "Outreach & Digital Communications",
+            socials: {}
+        }, {
+            id: "shubham-shah",
+            name: "Shubham Shah",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/shubham.jpeg",
+            description: "Technical Support & Coordination",
+            socials: {}
+        }, {
+            id: "prachi-rawat",
+            name: "Prachi Rawat",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/prachi.jpeg",
+            description: "Event Execution & Logistics",
+            socials: {}
+        }, {
+            id: "srishti-raj",
+            name: "Srishti Raj",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/srishti.jpeg",
+            description: "Event Operations & Hospitality",
+            socials: {}
+        }, {
+            id: "shreya-singh",
+            name: "Shreya Singh",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/shreya-singh.jpeg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "komal-kumari",
+            name: "Komal Kumari",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/komal-kumari.jpeg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "mishti",
+            name: "Mishti",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/mishti.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "aditya-aadarsh",
+            name: "Aditya Aadarsh",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/aditya-aadarsh.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "vivek-kumar",
+            name: "Vivek Kumar",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/vivek-kumar.png",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "rishabh-kumar-gautam",
+            name: "Rishabh Kumar Gautam",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/rishabh-gautam.png",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "minshu-kumar",
+            name: "Minshu Kumar",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/minshu-kumar.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "nikita-kashyap",
+            name: "Nikita Kashyap",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/nikita-kashyap.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "rohan-kumar",
+            name: "Rohan Kumar",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/rohan-kumar.png",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "abhinav-mishra",
+            name: "Abhinav Mishra",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/abhinav-mishra.png",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "agrani-mishra",
+            name: "Agrani Mishra",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/agrani-mishra.jpeg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "anwar-hussain",
+            name: "Anwar Hussain",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/anwar-hussain.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "bhairavi-singh",
+            name: "Bhairavi Singh",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/bhairavi-singh.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "ayushi",
+            name: "Ayushi",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/ayushi-raj.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "aakriti-gupta",
+            name: "Aakriti Gupta",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/aakriti-gupta.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "prachi-priya",
+            name: "Prachi Priya",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/prachi-priya.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "chanchal-gupta",
+            name: "Chanchal Gupta",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/chanchal-gupta.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "sneha-rawat",
+            name: "Sneha Rawat",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/sneha-rawat.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "ishita-paul",
+            name: "Ishita Paul",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/ishita-paul.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "abhinav-gupta",
+            name: "Abhinav Gupta",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/abhinav-gupta.png",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "anushka-gupta",
+            name: "Anushka Gupta",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/anushka-gupta.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "anjali-kumari",
+            name: "Anjali Kumari",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/anjali-kumari.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "aditya-raj",
+            name: "Aditya Raj",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/aditya-raj.png",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "ashish-kumar-jha",
+            name: "Ashish Kumar Jha",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/ashish-jha.jpg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "roopam-sinha",
+            name: "Roopam Sinha",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/roopam-sinha.jpeg",
+            description: "ACM Student Member",
+            socials: {}
+        }, {
+            id: "aman-gupta",
+            name: "Aman Gupta",
+            role: "ACM MEMBER",
+            category: "student",
+            image: "/team/aman-gupta.jpeg",
+            description: "ACM Student Member",
+            socials: {}
+        }]
