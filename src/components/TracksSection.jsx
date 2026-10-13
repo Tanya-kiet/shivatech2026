@@ -70,7 +70,7 @@ export default function TracksSection() {
                         <span>HACKATHON TIMELINE:</span>
                       </div>
                       <div className="pl-5 text-slate-300">
-                        17 Oct 09:00 AM &rarr; 18 Oct 06:00 PM (Result)
+                        16 Oct 09:00 AM &rarr; 17 Oct 06:00 PM (Result)
                       </div>
                     </div>
                   )}

@@ -8,7 +8,7 @@ export const EVENTS_DATA = [
     "category": "HACKATHON",
     "tagline": "INTENSIVE DEVELOPMENT & PROTOTYPING SPRINT",
     "description": "HACKNATION 2.0 is SHIVA INNOVEX's flagship continuous software and hardware hackathon. Interdisciplinary student teams collaborate to transform problem statements into functioning code, hardware integrations, and deployed technological prototypes.",
-    "date": "17 & 18 October 2026",
+    "date": "16 & 17 October 2026",
     "venue": "C-Block Shivalik University",
     "location": "C-Block Shivalik University",
     "prize": "Up to ₹2,00,000",
@@ -16,25 +16,25 @@ export const EVENTS_DATA = [
     "registrationUrl": "https://forms.gle/8Mk7g54FsrNDSyAo9",
     "timeline": [
       {
-        "date": "17 OCTOBER 2026",
+        "date": "16 OCTOBER 2026",
         "time": "09:00 AM",
         "title": "HACKATHON BEGINS",
         "description": "Official problem statement release, team check-in, and kickoff."
       },
       {
-        "date": "17 OCTOBER 2026",
+        "date": "16 OCTOBER 2026",
         "time": "DAY 1",
         "title": "DEVELOPMENT • MENTORING • BUILDING",
         "description": "Intense coding, architecture design, and first-round mentor reviews."
       },
       {
-        "date": "18 OCTOBER 2026",
+        "date": "17 OCTOBER 2026",
         "time": "DAY 2",
         "title": "FINAL DEVELOPMENT • SUBMISSION • EVALUATION",
         "description": "Repository freeze, project submission, and live jury demos."
       },
       {
-        "date": "18 OCTOBER 2026",
+        "date": "17 OCTOBER 2026",
         "time": "06:00 PM",
         "title": "RESULT DECLARATION",
         "description": "Winners announcement and trophy presentation at the Valedictory ceremony."
@@ -44,7 +44,7 @@ export const EVENTS_DATA = [
       {
         "id": "hn-1",
         "question": "What is HACKNATION 2.0?",
-        "answer": "HACKNATION 2.0 is SHIVA INNOVEX's flagship software and hardware hackathon (17 & 18 October 2026). Interdisciplinary student teams collaborate overnight to transform problem statements into functioning code, hardware integrations, and deployed technological prototypes."
+        "answer": "HACKNATION 2.0 is SHIVA INNOVEX's flagship software and hardware hackathon (16 & 17 October 2026). Interdisciplinary student teams collaborate overnight to transform problem statements into functioning code, hardware integrations, and deployed technological prototypes."
       },
       {
         "id": "hn-2",
@@ -59,7 +59,7 @@ export const EVENTS_DATA = [
       {
         "id": "hn-4",
         "question": "What are the important dates and venue for HACKNATION 2.0?",
-        "answer": "HACKNATION 2.0 takes place on 17 & 18 October 2026 at C-Block, Shivalik University. HACKATHON BEGINS on 17 Oct at 09:00 AM and RESULT DECLARATION takes place on 18 Oct at 06:00 PM."
+        "answer": "HACKNATION 2.0 takes place on 16 & 17 October 2026 at C-Block, Shivalik University. HACKATHON BEGINS on 16 Oct at 09:00 AM and RESULT DECLARATION takes place on 17 Oct at 06:00 PM."
       }
     ]
   },

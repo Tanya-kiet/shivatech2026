@@ -59,7 +59,7 @@ export default function Hero() {
           {EVENT_DETAILS.subtitle}
         </div>
 
-        {/* Hackathon Date Pill - UPDATED TO 17 & 18 October 2026 */}
+        {/* Hackathon Date Pill - UPDATED TO 16 & 17 October 2026 */}
         <div className="inline-flex items-center gap-3 py-2.5 px-6 rounded-full bg-red-500/10 border border-red-500/40 text-white font-orbitron font-bold text-sm sm:text-lg tracking-wider shadow-[0_0_25px_rgba(239,68,68,0.3)] animate-pulse-slow">
           <Calendar className="w-5 h-5 text-red-400" />
           <span>HACKATHON DATE: <span className="text-red-400">{EVENT_DETAILS.hackathonDate}</span></span>

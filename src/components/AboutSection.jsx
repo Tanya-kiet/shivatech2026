@@ -8,7 +8,7 @@ export default function AboutSection() {
       icon: <Code className="w-6 h-6 text-red-400" />,
       title: "HACKNATION HACKATHON",
       subtitle: "24-Hour Non-stop Coding",
-      description: "Flagship hackathon held on 17 & 18 October 2026. Solve real-world industrial and societal problems."
+      description: "Flagship hackathon held on 16 & 17 October 2026. Solve real-world industrial and societal problems."
     },
     {
       icon: <Trophy className="w-6 h-6 text-yellow-400" />,

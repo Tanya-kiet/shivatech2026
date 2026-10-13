@@ -21,7 +21,7 @@ export const FAQ_DATA = [
   },
   {
     "question": "What are the important dates and venue for HACKNATION 2.0?",
-    "answer": "Registrations is Closed Now. The Last Date of Registration was 25 September 2026. HACKNATION 2.0 will take place on 17 & 18 October 2026 at C-Block, Shivalik University. The 30-hour development kickoff begins on 7 October at 11:00 AM, continuing through the night until prototype evaluations on the evening of 8 October."
+    "answer": "Registrations is Closed Now. The Last Date of Registration was 25 September 2026. HACKNATION 2.0 will take place on 16 & 17 October 2026 at C-Block, Shivalik University. The 30-hour development kickoff begins on 16 October at 11:00 AM, continuing through the night until prototype evaluations on the evening of 17 October."
   },
   {
     "question": "How can our team register for HACKNATION 2.0?",
@@ -45,7 +45,7 @@ export const FAQ_DATA = [
   },
   {
     "question": "When and where is IDEATHON conducted?",
-    "answer": "Registrations is Closed Now. The Last Date of Registration was 25 September 2026. IDEATHON takes place on 17 & 18 October 2026 at the Conference Room, CBII, Shivalik University."
+    "answer": "Registrations is Closed Now. The Last Date of Registration was 25 September 2026. IDEATHON takes place on 16 & 17 October 2026 at the Conference Room, CBII, Shivalik University."
   },
   {
     "question": "How do teams register for IDEATHON?",

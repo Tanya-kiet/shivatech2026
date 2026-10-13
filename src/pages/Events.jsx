@@ -100,10 +100,10 @@ export default function Events() {
                   <div className="p-3 rounded-xl bg-red-500/10 border border-red-500/20 text-xs font-mono text-red-300 space-y-1">
                     <div className="flex items-center gap-2 font-bold text-red-400">
                       <Clock className="w-4 h-4" />
-                      <span>HACKATHON TIMELINE (17 &amp; 18 OCT):</span>
+                      <span>HACKATHON TIMELINE (16 &amp; 17 OCT):</span>
                     </div>
                     <div className="pl-6 text-slate-200">
-                      17 Oct 09:00 AM (Begins) &rarr; 18 Oct 06:00 PM (Result Declaration)
+                      16 Oct 09:00 AM (Begins) &rarr; 17 Oct 06:00 PM (Result Declaration)
                     </div>
                   </div>
                 )}
